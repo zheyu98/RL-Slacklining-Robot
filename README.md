@@ -47,6 +47,13 @@ python enjoy.py
 The plot of angles of robot against time and the animation of the movements will show.
 
 
+## Models
+### Simple model (Controlled by SARSA Controller)
+![SARSA _model](imgs/model_simple.png)
+### Complex model (Controlled by A2C Controller)
+![A2C _model](imgs/model_complex.png)
+
+
 ## Results
 ### Training process of SARSA controller
 ![SARSA training](imgs/simple_train.png)
@@ -57,7 +64,7 @@ The plot of angles of robot against time and the animation of the movements will
 ### Performance of A2C controller
 ![A2C result](imgs/result_a2c.png)
 ### Animation for SARSA controller
-See [SARSA animation]
+See [SARSA animation](https://youtu.be/8sjQ9Q5fq_M)
 ### Animation for A2C controller
 See [A2C animation]
 
