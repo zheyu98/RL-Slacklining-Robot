@@ -66,7 +66,7 @@ The plot of angles of robot against time and the animation of the movements will
 ### Animation for SARSA controller
 See [SARSA animation](https://youtu.be/8sjQ9Q5fq_M)
 ### Animation for A2C controller
-See [A2C animation]
+See [A2C animation](https://youtu.be/WeV17Qnzjig)
 
 
 ## License
