@@ -44,7 +44,12 @@ For A2C controller and the complex model, run:
 ```bash
 python enjoy.py
 ```
-The plot of angles of robot against time and the animation of the movements will show.
+The plot of angles of robot against time and the animation of the movements will show. Run
+```bash
+python plot_results_single.py
+```
+The plot of the training process will show.
+
 
 
 ## Models
